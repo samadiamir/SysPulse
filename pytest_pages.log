@@ -1,0 +1,12 @@
+============================= test session starts =============================
+platform win32 -- Python 3.11.15, pytest-9.1.1, pluggy-1.6.0 -- C:\Users\ASUS.PIESC\AppData\Local\hermes\hermes-agent\venv\Scripts\python.exe
+PySide6 6.11.1 -- Qt runtime 6.11.1 -- Qt compiled 6.11.1
+rootdir: C:\Users\ASUS.PIESC\Downloads\Syspulse
+configfile: pytest.ini
+plugins: anyio-4.12.1, qt-4.5.0, timeout-2.4.0
+timeout: 15.0s
+timeout method: thread
+timeout func_only: False
+collecting ... collected 20 items
+
+tests/test_pages.py::TestDashboardPage::test_construction 
